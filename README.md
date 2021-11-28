@@ -1,2 +1,2 @@
 # deep-learning-project
-An image classifier project using deep learning networks.
+An image classifier school project using convolutional neural networks.
